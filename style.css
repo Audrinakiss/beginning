@@ -1,0 +1,44 @@
+body{
+    background-image: url(attendance5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Header{
+    background-color: #b3b3b3;
+    border-radius: 5px;
+    height: 70px;
+}
+.Header ul{
+    padding: 30px;
+    list-style-type: none;
+    text-align: center;
+    margin: 10px;
+    border-radius: 5px;
+    
+}
+.Header ul li{
+    display: inline;
+}
+.Header ul li a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    color: #ffffff;
+   
+}
+.Header ul li a:hover{
+    color: beige;
+    background-color: aqua;
+}
+.main{
+    height: 460px;
+}
+.main p{
+    float: right;
+    color: beige;
+}
+
+.Footer{
+    background-color: #b3b3b3;
+    border-radius: 5px;
+}
